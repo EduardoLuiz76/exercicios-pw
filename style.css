@@ -1,0 +1,12 @@
+header{
+    border-bottom: solid 2px;
+}
+aside{
+    float: left;
+    border-right: dotted 1px;
+}
+
+main{
+    float: right;
+    background-color: rgb(255, 230, 183);
+}
