@@ -1,1 +1,71 @@
+/* Estilo geral */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 20px;
+}
 
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+section {
+  background: white;
+  border: 1px solid #ccc;
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+/* Exercício 1 */
+.titulo-ex1 {
+  color: darkred;
+  font-size: 50px;
+  text-align: center;
+}
+
+/* Exercício 2 */
+a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: green;
+}
+
+a:visited {
+  color: purple;
+}
+
+/* Exercício 3 */
+.intro {
+  color: darkblue;
+  text-align: center;
+}
+
+.descricao {
+  color: darkgreen;
+  text-align: justify;
+}
+
+/* Exercício 4 */
+.coluna {
+  width: 45%;
+  float: left;
+  border: 2px solid black;
+  margin: 10px;
+  padding: 10px;
+  background-color: #e6e6e6;
+  border-radius: 5px;
+}
+
+/* Exercício 5 */
+.caixa {
+  border: 2px solid black;
+  margin: 20px;
+  padding: 15px;
+  background-color: lightgray;
+}
